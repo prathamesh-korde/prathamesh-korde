@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-korde&show_icons=true&locale=en" alt="prathamesh-korde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-korde&" alt="prathamesh-korde" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-korde)
+
